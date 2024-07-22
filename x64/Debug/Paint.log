@@ -1,0 +1,18 @@
+﻿  Main.cpp
+  SystemSDL.cpp
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(58,168): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(58,124): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(58,97): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(58,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,49): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,49): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,79): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,79): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,119): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,119): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,159): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(65,159): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(240,51): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Gelle\source\repos\Paint\SystemSDL.cpp(245,51): warning C4305: +=: усечение из "double" в "float"
+  Создание кода...
+  Paint.vcxproj -> C:\Users\Gelle\source\repos\Paint\x64\Debug\Paint.exe

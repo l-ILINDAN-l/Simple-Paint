@@ -1,0 +1,3 @@
+#pragma once
+
+typedef enum { TOOL_NONE, TOOL_PENCIL, TOOL_ERASER, TOOL_LINE, TOOL_RECTANGLE, TOOL_CIRCLE } Tool;
